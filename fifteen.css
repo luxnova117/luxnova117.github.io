@@ -1,0 +1,39 @@
+/*
+Zhao Cheng(Alex) Guo
+Section AH
+
+This file contains the CSS code for fifteen.html. The css code here
+describes the style for the body of the webpage as well as each of the
+puzzle pieces.
+*/
+
+body {
+    font-family: cursive;
+    font-size: 14pt;
+    text-align: center;
+}
+
+.movable:hover{
+    border: 5px solid red;
+    color: red;
+    cursor: pointer;
+}
+
+#puzzlearea{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    position: relative;
+}
+
+.puzzle{
+    background-image: url("http://www.healthforthewholeself.com/wp-content/uploads/2010/07/maryland-fatty-food-400x400.jpg");
+    border: 5px solid black;
+    color: cyan;
+    cursor: default;
+    font-size: 40pt;
+    position: absolute;
+    width: 90px;
+    height: 90px;
+}
+
