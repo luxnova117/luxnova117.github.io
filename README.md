@@ -1,2 +1,2 @@
-# luxnova117.github.io
-Fiftenn Puzzle
+
+Fun Fiftenn Puzzle created for my web programming class.
