@@ -1,2 +1,2 @@
 
-Fun Fiftenn Puzzle created for my web programming class.
+Fun Fifteen Puzzle created for my web programming class.
